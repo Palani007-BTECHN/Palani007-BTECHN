@@ -201,6 +201,27 @@ SQL, and big-data exercises.
 - Learn through testing, debugging and iteration.
 - Improve code quality and project reliability.
 
+---
+
+## 📄 Resume & Contact
+
+<p align="center">
+  <a href="./Palani-Kumar-Reddy-Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/palani-kumar-reddy-6443452a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Palani007-BTECHN">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+I'm interested in learning opportunities, engineering projects,
+and collaborations related to embedded systems, IoT and electronics.
+
+---
+
 ⭐ *Building, learning, and improving one project at a time.*
 
 
