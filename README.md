@@ -58,22 +58,7 @@ A project concept for geospatial wildlife monitoring, conflict risk scoring and 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Smart Rental Tracking System
 
-<img src="./rental-project.png" width="100%" alt="Rental tracking project screenshot" />
-
-An application for managing equipment records, rental information and data access.
-
-**Stack:** FastAPI · SQLAlchemy · React
-
-**Status:** In Development
-
-[View Project Repository](https://github.com/Palani007-BTECHN)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### ☁️ Cloud Data Engineering
 
@@ -110,13 +95,11 @@ tracking, risk scoring, and early-warning alerts.
 
 **Technologies:** Python, Streamlit, Folium, IoT concepts
 
-### 2. Smart Rental Tracking System
-A software project for tracking equipment, managing records,
-and exploring data-driven rental management.
+
 
 **Technologies:** Python, FastAPI, SQLAlchemy, React
 
-### 3. Cloud Data Engineering Practice
+### 2. Cloud Data Engineering Practice
 Hands-on learning through cloud data pipelines, data processing,
 SQL, and big-data exercises.
 
