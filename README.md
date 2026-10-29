@@ -43,7 +43,7 @@ and data technologies.
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 Smart Wildlife Conflict Prediction
+### 1. 🐾 Smart Wildlife Conflict Prediction
 
 <img src="./wildlife-project.png" width="100%" alt="Wildlife project screenshot" />
 
@@ -59,7 +59,7 @@ ongoing project - in devlopment process
 
 
 
-### ☁️ Cloud Data Engineering
+### 2. ☁️ Cloud Data Engineering
 
 <img src="./data-pipeline.png" width="100%" alt="Cloud data engineering screenshot" />
 
@@ -71,6 +71,27 @@ Practice projects covering data ingestion, transformation, SQL and cloud-based p
 
 </td>
 <td width="50%" valign="top">
+
+### 3 · 🌡️ IoT Perishable Goods Monitoring
+
+An Internet of Things project focused on monitoring perishable goods to support better storage and transportation monitoring.
+
+**Focus areas:** IoT · Monitoring · Perishable Goods
+
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palani007-BTECHN/IoT-Perishable-Goods-Monitoring)
+
+---
+
+### 4 · 🤖 Natural Fertilizer Sprayer and Grass Cutter Using Robot
+
+An agricultural robotics project combining natural fertilizer spraying and grass-cutting functions to explore automation for farming and garden maintenance.
+
+**Focus areas:** Robotics · Agricultural Automation · Embedded Systems
+
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palani007-BTECHN/NATURAL-FERTILIZER-SPRAYER-AND-GRASS-CUTTER-USING-ROBOT)
+
+---
+
 
 ### 🎯 Engineering Focus
 
