@@ -78,8 +78,9 @@ SQL, and big-data exercises.
 
 ⭐ *Building, learning, and improving one project at a time.*
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palani007-BTECHN&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Palani007-BTECHN&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palani007-BTECHN&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Palani007-BTECHN&layout=compact&theme=github_dark&hide_border=true)
