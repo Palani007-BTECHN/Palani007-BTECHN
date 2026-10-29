@@ -188,11 +188,7 @@ SQL, and big-data exercises.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,arduino,raspberrypi,git,github,vscode,linux,aws,azure&perline=6" alt="Technology skills" />
 </p>
 
-## 🏆 Developer Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Palani007-BTECHN&theme=algolia&no-frame=true&row=1&column=4" alt="GitHub achievements" />
-</p>
 
 ## 📈 My Development Approach
 
