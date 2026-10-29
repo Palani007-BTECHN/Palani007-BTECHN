@@ -1,139 +1,171 @@
 
-# Hi, I'm Palani Kumar Reddy 👋
+<div align="center">
 
-### Electronics & Communication Engineering | Embedded Systems | IoT | Data Engineering
+# 👋 Hi, I'm Palani Kumar Reddy
 
-Electronics and Communication Engineering undergraduate interested in building practical solutions using embedded systems, IoT, electronics, and data technologies.
+### Electronics & Communication Engineering Undergraduate
 
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 🔌 Interested in Embedded Systems, Firmware and IoT
-- 💻 Learning C, C++, Python, SQL and PySpark
-- ☁️ Exploring AWS, Azure and data engineering workflows
-- 🚀 Building projects and strengthening practical engineering skills
+**Embedded Systems • IoT • Electronics Core • Cloud & Data Engineering**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=ECE+Undergraduate;Embedded+Systems+Enthusiast;IoT+%26+Electronics+Learner;Exploring+Cloud+%26+Data+Engineering;Building+Practical+Engineering+Projects" alt="Typing introduction" />
+</p>
+
+<p>
+  <a href="https://github.com/Palani007-BTECHN">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/palani-kumar-reddy-6443452a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Engineering%20%26%20Innovation-008080?style=for-the-badge" alt="Engineering focus"/>
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
+
+I'm an Electronics and Communication Engineering undergraduate at **Jain (Deemed-to-be University), Bengaluru**, interested in building practical solutions at the intersection of electronics, embedded technology, IoT, and software.
+
+- 🎓 Pursuing B.Tech in Electronics & Communication Engineering.
+- 🔌 Exploring embedded systems, microcontrollers, and digital electronics.
+- 🌐 Developing IoT-based concepts for real-world applications.
+- ☁️ Learning cloud platforms, data pipelines, and distributed data processing.
+- 🛠️ Practising through engineering projects, coding, and technical labs.
+- 🎯 Focused on continuous learning, problem-solving, and building a strong technical portfolio.
+
+---
+
+## 🧰 Technical Skills
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
 ### Embedded Systems & IoT
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/IoT-00897B?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT"/>
+</p>
 
-### Cloud & Data Engineering
+### Cloud & Data Engineering — Learning
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Proteus-214761?style=for-the-badge" alt="Proteus"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🐾 Smart Wildlife Conflict Prediction System
+### 1. 🌿 IoT Perishable Goods Monitoring
 
-A project concept for geospatial wildlife monitoring, conflict risk scoring and early-warning alerts.
+An IoT-focused project exploring the monitoring of conditions relevant to perishable goods during storage and transportation.
 
-**Focus:** Python · Streamlit · Folium
+**Focus areas:** IoT • Sensor Monitoring • Data Collection
 
-**Status:** In development
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Palani007-BTECHN/IoT-Perishable-Goods-Monitoring)
 
-### 2. ☁️ Cloud Data Engineering Practice
+### 2. 🤖 Natural Fertilizer Sprayer and Grass Cutter Using Robot
 
-Practice projects covering data ingestion, transformation, SQL and cloud-based processing.
+A robotics project focused on combining fertilizer spraying and grass-cutting functions to explore agricultural automation.
 
-**Tools:** AWS · Azure · SQL · PySpark
+**Focus areas:** Robotics • Electronics • Agricultural Automation
 
-**Status:** Learning and Practice
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Palani007-BTECHN/NATURAL-FERTILIZER-SPRAYER-AND-GRASS-CUTTER-USING-ROBOT)
 
-### 3. 🌡️ IoT Perishable Goods Monitoring
+### 3. 🐘 Smart Wildlife Conflict Prediction System
 
-An Internet of Things project focused on monitoring perishable goods to support better storage and transportation monitoring.
+An ongoing project concept exploring wildlife tracking, geographical boundaries, risk assessment, and early-warning alerts to help reduce human–wildlife conflict.
 
-**Focus areas:** IoT · Monitoring · Perishable Goods
+**Planned technologies:** GIS • IoT • LoRa • Predictive Risk Scoring • Dashboard
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palani007-BTECHN/IoT-Perishable-Goods-Monitoring)
+**Status:** Concept and development planning.
 
-### 4. 🤖 Natural Fertilizer Sprayer and Grass Cutter Using Robot
+### 4. ☁️ Cloud & Data Engineering Practice
 
-An agricultural robotics project combining natural fertilizer spraying and grass-cutting functions to explore automation for farming and garden maintenance.
+Hands-on learning through cloud infrastructure, data storage, SQL, data processing, and pipeline exercises.
 
-**Focus areas:** Robotics · Agricultural Automation · Embedded Systems
+**Focus areas:** AWS • Azure • SQL • PySpark • Data Pipelines
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palani007-BTECHN/NATURAL-FERTILIZER-SPRAYER-AND-GRASS-CUTTER-USING-ROBOT)
-
----
-
-## 🧰 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,arduino,raspberrypi,git,github,vscode,linux,aws,azure&perline=6" alt="Technology skills"/>
-</p>
+**Status:** Learning and practice portfolio.
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Overview
 
-- Improving problem-solving and programming skills
-- Practising embedded systems and IoT development
-- Building cloud data engineering projects
-- Learning software development and deployment workflows
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Palani007-BTECHN&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics"/>
 
-## 📈 My Development Approach
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palani007-BTECHN&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages"/>
 
-- Build projects that solve practical problems.
-- Document implementation and setup clearly.
-- Learn through testing, debugging and iteration.
-- Improve code quality and project reliability.
+<img src="https://streak-stats.demolab.com?user=Palani007-BTECHN&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Learning Roadmap
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/palani-kumar-reddy-6443452a9/)
-- 🐙 GitHub: [Explore my repositories](https://github.com/Palani007-BTECHN)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=ECE+Undergraduate;Embedded+Systems+%7C+IoT;Electronics+%7C+Cloud+Data+Engineering;Building+Projects+and+Learning+Every+Day" alt="Animated introduction"/>
-</p>
+- [ ] Strengthen C, C++, and Python programming fundamentals.
+- [ ] Practise embedded systems and microcontroller programming.
+- [ ] Develop practical IoT prototypes and simulations.
+- [ ] Improve SQL, Linux, and data-processing skills.
+- [ ] Build cloud data pipeline projects.
+- [ ] Document projects with clear READMEs, diagrams, and demonstrations.
 
 ---
 
-## 📄 Resume & Contact
+## 💡 My Engineering Approach
 
-<p align="center">
-  <a href="./Palani-Kumar-Reddy-Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
-  </a>
-  <a href="https://www.linkedin.com/in/palani-kumar-reddy-6443452a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Palani007-BTECHN">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-I'm interested in learning opportunities, engineering projects, and collaborations related to embedded systems, IoT and electronics.
+- **Learn:** Understand the underlying concepts before implementation.
+- **Build:** Turn technical ideas into practical projects.
+- **Test:** Validate functionality and document limitations.
+- **Improve:** Refine code, documentation, and design iteratively.
+- **Share:** Maintain an organised GitHub portfolio of my learning and work.
 
 ---
 
-⭐ *Building, learning, and improving one project at a time.*
+## 🤝 Connect With Me
 
-## 📊 GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palani007-BTECHN&show_icons=true&theme=github_dark&hide_border=true)
+<a href="https://www.linkedin.com/in/palani-kumar-reddy-6443452a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Palani%20Kumar%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palani007-BTECHN&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/Palani007-BTECHN">
+  <img src="https://img.shields.io/badge/GitHub-Palani007--BTECHN-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+</a>
+
+<p><i>Learning continuously. Building practically. Growing as an engineer.</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=Palani007-BTECHN&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
