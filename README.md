@@ -76,6 +76,29 @@ SQL, and big-data exercises.
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=ECE+Undergraduate;Embedded+Systems+%7C+IoT;Electronics+%7C+Cloud+Data+Engineering;Building+Projects+and+Learning+Every+Day" alt="Animated introduction" />
+</p>
+
+## 🧰 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,arduino,raspberrypi,git,github,vscode,linux,aws,azure&perline=6" alt="Technology skills" />
+</p>
+
+## 🏆 Developer Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Palani007-BTECHN&theme=algolia&no-frame=true&row=1&column=4" alt="GitHub achievements" />
+</p>
+
+## 📈 My Development Approach
+
+- Build projects that solve practical problems.
+- Document implementation and setup clearly.
+- Learn through testing, debugging and iteration.
+- Improve code quality and project reliability.
+
 ⭐ *Building, learning, and improving one project at a time.*
 
 
