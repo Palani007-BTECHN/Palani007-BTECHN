@@ -53,8 +53,7 @@ A project concept for geospatial wildlife monitoring, conflict risk scoring and 
 
 **Status:** In Progress
 
-[View Project Repository](https://github.com/Palani007-BTECHN)
-
+ongoing project - in devlopment process
 </td>
 <td width="50%" valign="top">
 
@@ -69,8 +68,6 @@ Practice projects covering data ingestion, transformation, SQL and cloud-based p
 **Tools:** AWS · Azure · SQL · PySpark
 
 **Status:** Learning and Practice
-
-[View Project Repository](https://github.com/Palani007-BTECHN)
 
 </td>
 <td width="50%" valign="top">
